@@ -402,3 +402,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+========================================================================
+ONEstore H5 Game SDK v1.1.0 — official CDN
+========================================================================
+Copyright (c) 2026 ONE store Corp. All Rights Reserved.
+
+SDK: https://h5sdk.onestore.net/lib/v1.1.0/onestore-h5-sdk.min.js
+License Agreement v1.0 (September 30, 2026):
+https://github.com/ONE-store/onestore_web_sdk_skills/blob/17d6b71501e7c2b85b6ccf3cb2006a544fc235d0/LICENSE
+The SDK is loaded from the official CDN under this separate proprietary agreement.
